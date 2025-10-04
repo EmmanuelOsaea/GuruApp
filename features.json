@@ -1,4 +1,1 @@
-import { features } from "web-features/data.json";
-// Or sometimes simply: import data from "web-features" (which exports features collection)
 
-console.log(features); // an array of feature objects with Baseline status, support info, etc.
