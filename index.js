@@ -1,4 +1,4 @@
-
+no
 import _ from "lodash";
 import fs from "fs";
 
@@ -17,3 +17,10 @@ const years = _.uniq(data.map(f => f.year));
 console.log("Grouped by Status:\n", grouped);
 console.log("\nSorted by Year:\n", sorted);
 console.log("\nUnique Years:\n", years);
+
+
+
+import { features } from "web-features/data.json";
+// Or sometimes simply: import data from "web-features" (which exports features collection)
+
+console.log(features); // an array of feature objects with Baseline status, support info, etc.
