@@ -1,9 +1,28 @@
-# A Baseline Feature Checker in action 
+# Baseline Feature Checker
 
-A Node.js project that scans HTML files and generates a report showing which web features are Baseline-supported.
+Empowering developers to adopt modern web features with ease.
 
-## 🚀 Usage
-1. Clone repo
-2. Install dependencies:
-   ```bash
-   npm install
+# Overview
+
+This project integrates Baseline data about web features with developer tools to help web developers understand which features are safe to use across browsers.
+It uses Lodash to process, sort, and group feature data, and provides a baseline-checking utility that can be extended to linters, IDEs, analytics, or documentation tools.
+
+
+---
+# Features
+
+Fetches real Baseline data from the web-features package
+
+Processes data efficiently using Lodash
+
+Outputs results showing which features are safe, experimental, or missing support
+
+Can be integrated with:
+
+ESLint or custom linters
+
+VSCode extensions or IDEs
+
+Documentation pipelines
+
+Web analytics dashboards
