@@ -1,4 +1,4 @@
-# Baseline Feature Checker
+# GuruApp
 
 Empowering developers to adopt modern web features with ease.
 
