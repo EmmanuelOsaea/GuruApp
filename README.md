@@ -26,3 +26,23 @@ VSCode extensions or IDEs
 Documentation pipelines
 
 Web analytics dashboards
+
+
+# Built With
+
+Node.js
+
+Lodash
+
+Web Features (Baseline) Dataset
+
+(Future Integration) Developer tools like ESLint, VSCode, and analytics platforms
+
+
+
+---
+
+# Contributors
+
+Team: Emmanuel & ChatGPT
+Competition: Modern Web Baseline Developer Tools Challenge 2025
